@@ -1,0 +1,1 @@
+Had fun with this introductory assignment.  Going to start it over again soon and try to fix some things as well as being more concise with displayed output.  Need to figure out why cheat wasn't working.
